@@ -43,7 +43,8 @@ flutter run -t lib/main_dev.dart --flavor dev
 ```
 
 ```bash
- git fetch --prune```
+ git fetch --prune
+```
 
 ### STAGING
 
