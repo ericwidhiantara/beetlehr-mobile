@@ -22,7 +22,7 @@ export 'package:hive/src/hive_impl.dart';
 export 'package:image_picker/image_picker.dart';
 export 'package:intl/intl.dart';
 export 'package:native_camera/native_camera.dart';
-export 'package:open_file/open_file.dart';
+export 'package:open_file_safe/open_file_safe.dart';
 export 'package:package_info/package_info.dart';
 export 'package:path_provider/path_provider.dart';
 export 'package:pdf/pdf.dart' hide PdfDocument;
