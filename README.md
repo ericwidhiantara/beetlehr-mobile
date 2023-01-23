@@ -1,4 +1,23 @@
-# TrackingWorks
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1vWBX4YxRPy7wppH5FrU2vxIRww67w6L-" alt="Beetlehr-logo" width="240" />
+
+  <p align="center">The open source HR system</p>
+</p>
+
+___
+
+![image](https://drive.google.com/uc?id=14x_6EQ4SqoG7Vr1OXq3s5N5Ufc0-z0Mk)
+
+
+## Features
+
+- Attendance System
+- Employee Management
+- Resign Management
+- Leave Management
+- Notice board 
+- Multi Approval System
+- Payroll 
 
 ## Table Of Content
 
@@ -12,7 +31,8 @@
 
 1. Clone this repo
 2. Getting packages with running `flutter pub get`
-3. [Run/Debug with Flavor](#flavor-type)
+3. Register app to your firebase account (https://firebase.flutter.dev/docs/manual-installation/android)
+4. [Run/Debug with Flavor](#flavor-type)
 
 
 ## Flavor Type
@@ -48,7 +68,22 @@ flutter run -t lib/main_prod.dart --flavor prod
 
 ### Android
 
+#### For build APK
+
+```bash
+flutter build apk -t lib/main_prod.dart --flavor prod
+```
+#### For build AppBundle
+
+```bash
+flutter build appbundle -t lib/main_prod.dart --flavor prod
+```
+
 ### IOS
+
+```bash
+flutter build ipa -t lib/main_prod.dart --flavor prod
+```
 
 
 ## Structure Modules
@@ -76,8 +111,8 @@ Module | Description |
 [`apps`](/features/apps) | List mini apps features |
 [`notice`](/features/notice) | Notification, alert, etc.. |
 [`settings`](/features/settings) | Setting preferences: theme, language, ... |
-[`tasks`](/features/tasks) | Task board  |
 [`attendance`](/features/attendance) | Attendance module clock in, clock out, ...  |
+[`payroll`](/features/payroll) | Payroll list, salary slip, ...  |
 
 
 ## Detail Structure Item Module Feature
