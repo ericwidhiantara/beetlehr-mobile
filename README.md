@@ -69,6 +69,11 @@ flutter run -t lib/main_prod.dart --flavor prod
 
 ## Building App
 
+### Requirement
+
+1. Dart SDK Versions : >=2.12.0 <3.0.0 (recommand 2.16.2)
+2. Flutter versions : >2.0.0 (recommand 2.10.15)
+
 ### Android
 
 #### For build APK
