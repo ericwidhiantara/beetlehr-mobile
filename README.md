@@ -8,9 +8,9 @@ ___
 
 <img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_184905.gif" width="243" height="526"> <img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_185453.gif" width="243" height="526"> <img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_192019.gif" width="243" height="526"> <img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_192814.gif" width="243" height="526">
 
-<img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_193029.gif" width="243" height="526"> <img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_193554.gif" width="243" height="526"> <img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_195317.gif" width="243" height="526"> <img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_195627.gif" width="243" height="526"> <img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_195856.gif" width="243" height="526">
+<img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_193029.gif" width="243" height="526"> <img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_193554.gif" width="243" height="526"> <img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_195317.gif" width="243" height="526"> <img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_195627.gif" width="243" height="526"> <img 
 
-<img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_200035.gif" width="243" height="526"> <img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_200204.gif" width="243" height="526">
+src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_195856.gif" width="243" height="526"> <img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_200035.gif" width="243" height="526"> <img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_200204.gif" width="243" height="526">
 
 
 ## Features
