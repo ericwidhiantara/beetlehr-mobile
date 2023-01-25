@@ -6,19 +6,17 @@
 
 ___
 
-![image](https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_184905.gif=250x250)
-![image](https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_185453.gif)
-![image](https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_192019.gif)
-![image](https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_192814.gif)
-![image](https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_193029.gif)
-![image](https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_193554.gif)
-![image](https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_195317.gif)
-![image](https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_195627.gif)
-![image](https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_195856.gif)
-![image](https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_200035.gif)
-![image](https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_200204.gif)
-
-<img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_184905.gif" width="215" height="340"> <img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_185453.gif" width="215" height="340">
+<img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_184905.gif" width="243" height="526"> 
+<img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_185453.gif" width="243" height="526">
+<img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_192019.gif" width="243" height="526">
+<img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_192814.gif" width="243" height="526">
+<img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_193029.gif" width="243" height="526">
+<img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_193554.gif" width="243" height="526">
+<img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_195317.gif" width="243" height="526">
+<img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_195627.gif" width="243" height="526">
+<img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_195856.gif" width="243" height="526">
+<img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_200035.gif" width="243" height="526">
+<img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_200204.gif" width="243" height="526">
 
 
 ## Features
