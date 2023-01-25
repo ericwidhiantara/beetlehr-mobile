@@ -18,6 +18,9 @@ ___
 ![image](https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_200035.gif)
 ![image](https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_200204.gif)
 
+<img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_184905.gif" width="215" height="340"> 
+<img src="https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_185453.gif" width="215" height="340">
+
 
 ## Features
 
