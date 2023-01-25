@@ -26,21 +26,21 @@ dependencies:
   rxdart: ^0.27.3
   open_file_safe: ^3.2.3
   pdf: ^3.7.1
-  firebase_core: ^1.12.0
-  firebase_messaging: ^11.2.6
-  firebase_crashlytics: ^2.5.1
-  firebase_performance: ^0.8.0+5
-  firebase_analytics: ^9.1.0
+  firebase_core: ^2.4.1
+  firebase_messaging: ^14.2.1
+  firebase_crashlytics: ^3.0.11
+  firebase_performance: ^0.9.0+10
+  firebase_analytics: ^10.1.0
   root_detector: ^0.0.6
-  geolocator: ^8.1.1
-  firebase_remote_config: ^2.0.0
+  geolocator: ^9.0.2
+  firebase_remote_config: ^3.0.9
   package_info: ^2.0.2
   url_launcher: ^6.0.18
   shimmer: ^2.0.0
   intl: ^0.17.0
   google_maps_flutter: ^2.1.1
   timeline_tile: ^2.0.0
-  permission_handler: ^8.3.0
+  permission_handler: ^10.2.0
   flutter_downloader: ^1.7.2
   flutter_local_notifications: ^9.2.0
   internet_connection_checker: ^0.0.1+3
