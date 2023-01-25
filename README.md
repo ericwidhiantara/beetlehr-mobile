@@ -6,7 +6,7 @@
 
 ___
 
-![image](https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_184905.gif)
+![image](https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_184905.gif width="200" height="400")
 ![image](https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_185453.gif)
 ![image](https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_192019.gif)
 ![image](https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_192814.gif)
