@@ -6,10 +6,17 @@
 
 ___
 
-![image](https://drive.google.com/file/d/1G3ZH1T0-06yiWpKiOKrA6vjtCXnfs7_1/view)
-![image](https://drive.google.com/file/d/1rh-fL1qXy7Wms6SxatyD5Nl8H5C-v0NI/view?usp=share_link)
-![image](https://drive.google.com/uc?id=14x_6EQ4SqoG7Vr1OXq3s5N5Ufc0-z0Mk)
-![image](https://drive.google.com/uc?id=14x_6EQ4SqoG7Vr1OXq3s5N5Ufc0-z0Mk)
+![image](https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_184905.gif)
+![image](https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_185453.gif)
+![image](https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_192019.gif)
+![image](https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_192814.gif)
+![image](https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_193029.gif)
+![image](https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_193554.gif)
+![image](https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_195317.gif)
+![image](https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_195627.gif)
+![image](https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_195856.gif)
+![image](https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_200035.gif)
+![image](https://github.com/beetlehr/beetlehr-mobile/blob/main/demo/20230124_200204.gif)
 
 
 ## Features
